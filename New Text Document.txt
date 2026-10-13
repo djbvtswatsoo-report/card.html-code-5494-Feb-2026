@@ -570,7 +570,7 @@
         "totalTrips": 0,
         "totalVehicleReports": 1,
         "totalDistance": 0.00,
-	"totalEngineHr": 229.48,
+	"totalEngineHr": 183.25,
         "fromDate": "2026-02-01T00:00:00.000Z",
         "toDate": "2026-02-28T00:00:00.000Z",
         "vehicleReports": [ {
